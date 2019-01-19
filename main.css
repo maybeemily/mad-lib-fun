@@ -1,25 +1,27 @@
 body {
-    background-color:#d9f7f7;
+    background-color:#b8f4fc;
     color:#414444;
-    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: Futura, Trebuchet MS, Arial, sans-serif;
     font-size:14px;
+    font-weight: 100;
 }
 
 h1 {
-    color:#d87620;
+    color:#1f42b7;
+    font-weight: 200;
 }
 input {
     display:block;
     padding:5px;
     margin:5px;
-    background-color:#e0b5d7;
+    background-color:#d6f5f9;
+}
 
 button {
-    background-color:#b7381f;
+    background-color:#1f42b7;
     color:white;
     padding:10px;
     margin:5px;
-    font-size: 1.2em;
-    border-width:2px;
-    border-color:#1eb7b7;
+    font-size:1.2em;
+
 }
